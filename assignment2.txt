@@ -1,0 +1,9 @@
+assignment no.2 A
+create a version control account on github and using git command to create repository and push your code to git
+hub 
+1.install gh command line tool in your system.
+2.log in to github account 
+3.initialize a new local repository 
+4.create new repostitory using gh
+5.push your first github comment
+6.
